@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Backbone.js",
+		"CoffeeScript",
+		"ColorPick",
+		"DashDoc",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"Git",
+		"GitHubinator",
+		"LESS",
+		"Package Control",
+		"Rails Partial",
+		"RSpec",
+		"Ruby 1.9 Hash Converter",
+		"Ruby on Rails snippets",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
